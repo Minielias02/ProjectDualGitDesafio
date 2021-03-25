@@ -1,9 +1,9 @@
 package com.everis.git;
 
 /**
- * Formacion - GIT
+ * Formacion dual Tercer ejercicio de prueba
  * 
- * @author everis
+ * @author Elias
  *
  */
 public class AppMain {
@@ -15,6 +15,7 @@ public class AppMain {
 	 */
 	public static void main(String[] args) {
 		
+		// muchas salidas por pantalla
 		System.out.println("Hola mundo");
 		
 		System.out.println("Hola línea evolutivo V2");
@@ -22,6 +23,8 @@ public class AppMain {
 		System.out.println("Hola línea MASTER");
 
 		System.out.println("Hola línea evolutivo V4");
+		
+		System.out.println("Aqui hago un merge");
 
 	}
 
